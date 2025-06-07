@@ -1,4 +1,4 @@
-# 🚀 Professional Learning Management System (LMS)
+# 🚀 Learning Management System (LMS)
 
 ## 🎯 Project Overview
 Development of a full-stack Learning Management System (LMS) platform that is modern, intuitive, and feature-rich. This project is designed to facilitate the creation, distribution, and management of online learning content, as well as enable interaction between instructors and learners. The system also integrates a payment gateway for paid courses and a cloud-based media storage service for images and videos.
